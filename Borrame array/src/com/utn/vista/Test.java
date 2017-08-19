@@ -39,7 +39,7 @@ public final class Test {
 		p5.nombre = "ja5";
 		p5.dinero = 25;
 		
-		System.out.println(||1);
+		System.out.println(p1);
 		linea1.cobrar(p1);
 		
 		
